@@ -920,8 +920,8 @@ mesajdaki bağlantıyı takip edin"</string>
     <string name="time_interval_in_sec">%1$d</string>
     <string name="timer_turn_off">Zamanlayıcı kapalı</string>
     <string name="timer_turn_on">Zamanlayıcı açık</string>
-    <string name="ac_set_timer_title_text">请选定时间后，对准空调按下定时按钮</string>
     <string name="to_be_used_in_these_modes">&lt;%1$s>只能在%2$s模式下使用</string>
+    <string name="tune_from_first_channel">从频道1开始换台</string>
     <string name="turn_off">Kapat</string>
     <string name="turn_on">Aç</string>
     <string name="udt_conn_error">Cihaz bağlı değil</string>
