@@ -27,7 +27,6 @@
     </string-array>
     <string-array name="assistant_tab">
         <item>Video</item>
-        <item>Ekran</item>
         <item>Uygulama</item>
     </string-array>
     <string-array name="epg_channel_tab">
@@ -45,6 +44,17 @@
         <item>TV kanalları</item>
         <item>HD kanallar</item>
         <item>Son izlenenler</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang TV</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Pekin TV</item>
+        <item>Guangdong TV</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
