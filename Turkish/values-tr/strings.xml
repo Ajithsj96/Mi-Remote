@@ -618,9 +618,7 @@ Televizyonun güç düğmesine değiştirmek için uzun basın"</string>
     <string name="yes">Sil</string>
     <string name="yesterday">Dün</string>
     <string name="epg_no_search_result">Sonuç bulunamadı</string>
-    <string name="epg_search_box_hint">Görmek istediğiniz televizyon programlarını ara</string>
     <string name="epg_search_history">Geçmiş</string>
-    <string name="epg_search_hot_keyword">Popüler aramalar</string>
     <string name="ir_not_supported_devices">* Bazı cihazlar desteklenmiyor. Wifi üzerinden uzaktan bağlanma tavsiye edilir</string>
     <string name="match_main_tip_frame_click">"%1$s kumandaya ve düğmesine dokunun
 Sonra soruya cevap verin"</string>
@@ -637,8 +635,8 @@ Sonra soruya cevap verin"</string>
     <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
     <string name="passport_btn_return">Geri</string>
     <string name="passport_button_cancel">İptal et</string>
-    <string name="passport_captcha">Kodu gir</string>
     <string name="passport_change_account"><u>Hesabı değiştir</u></string>
+    <string name="passport_change_phone_number">Numarayı değiştir</string>
     <string name="passport_checking_account">Parolanızı kontrol ediliyor</string>
     <string name="passport_checking_input">Girişi kontrol ediliyor</string>
     <string name="passport_choose_which_one_sim">Telefon numarası seç</string>
@@ -684,6 +682,8 @@ mesajdaki bağlantıyı takip edin"</string>
     <string name="passport_get_verify_code">Kod al</string>
     <string name="passport_getting_verify_code">Alınıyor</string>
     <string name="passport_identitfication_expired">Doğrulama kodunun kullanım süresi dolmuş. Baştan başla</string>
+    <string name="passport_imei_permission_denied_message">Biz cihazınızın imei numarasını almak için izin talep ediyoruz</string>
+    <string name="passport_imei_permission_denied_title">İmei izni talebi</string>
     <string name="passport_input_captcha_hint">Kodu gir</string>
     <string name="passport_input_password_for_login">Bu numara varolan hesabıyla ilişkilidir. Şifrenizi girin</string>
     <string name="passport_input_password_hint">Şifreyi gir</string>
