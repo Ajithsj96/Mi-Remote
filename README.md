@@ -1,2 +1,2 @@
 # Miui Turkish Team
-# Version: 5.2.4
+# Version: 5.2.5
