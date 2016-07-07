@@ -27,6 +27,7 @@
     </string-array>
     <string-array name="assistant_tab">
         <item>Video</item>
+        <item>Ekran</item>
         <item>Uygulama</item>
     </string-array>
     <string-array name="epg_channel_tab">
